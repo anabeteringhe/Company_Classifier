@@ -1,221 +1,221 @@
 label
-"['agricultural', 'equipment', 'services']"
-"['soil', 'nutrient', 'application', 'services']"
-"['pesticide', 'application', 'services']"
-"['ornamental', 'plant', 'nurseries']"
-"['landscaping', 'services']"
-"['gardening', 'services']"
-"['tree', 'services', '-', 'pruning', '/', 'removal']"
-"['veterinary', 'services']"
-"['veterinary', 'clinics']"
-"['pet', 'boarding', 'services']"
-"['animal', 'day', 'care', 'services']"
-"['pet', 'grooming', 'services']"
-"['animal', 'training', 'services']"
-"['veterinary', 'health', 'centers']"
-"['animal', 'trainers']"
-"['livestock', 'dealer', 'services']"
-"['timber', 'harvesting', 'operations']"
-"['fishing', 'and', 'hunting', 'services']"
-"['well', 'maintenance', 'services']"
-"['field', 'welding', 'services']"
-"['sand', 'and', 'gravel', 'mining']"
-"['residential', 'driveway', 'construction']"
-"['commercial', 'driveway', 'construction']"
-"['fencing', 'construction', 'services']"
-"['sidewalk', 'construction', 'services']"
-"['commercial', 'irrigation', 'systems']"
-"['residential', 'drainage', 'systems']"
-"['residential', 'snow', 'removal']"
-"['commercial', 'snow', 'removal']"
-"['general', 'snow', 'removal', 'services']"
-"['land', 'leveling', 'services']"
-"['residential', 'drain', 'cleaning']"
-"['commercial', 'drain', 'cleaning']"
-"['street', 'cleaning', 'operations']"
-"['conveyor', 'system', 'installation']"
-"['low-rise', 'signage', 'installation']"
-"['high-rise', 'signage', 'installation']"
-"['tank', 'installation', 'services']"
-"['residential', 'communication', 'equipment', 'installation']"
-"['commercial', 'communication', 'equipment', 'installation']"
-"['low-rise', 'glass', 'installation']"
-"['high-rise', 'glass', 'installation']"
-"['industrial', 'machinery', 'installation']"
-"['agricultural', 'machinery', 'installation']"
-"['grain', 'handling', 'machinery', 'installation']"
-"['dock', 'and', 'pier', 'construction']"
-"['road', 'and', 'highway', 'construction']"
-"['road', 'maintenance', 'services']"
-"['pipeline', 'construction', 'services']"
-"['new', 'ground', 'pipeline', 'installation']"
-"['excavation', 'services']"
-"['residential', 'plumbing', 'services']"
-"['commercial', 'plumbing', 'services']"
-"['industrial', 'plumbing', 'services']"
-"['boiler', 'installation', 'services']"
-"['boiler', 'repair', 'services']"
-"['steam', 'services']"
-"['gas', 'installation', 'services']"
-"['medical', 'gas', 'installation', 'services']"
-"['fire', 'protection', 'system', 'services']"
-"['hvac', 'installation', 'and', 'service']"
-"['hvac', 'inspections']"
-"['air', 'duct', 'cleaning', 'services']"
-"['water', 'treatment', 'services']"
-"['residential', 'electrical', 'services']"
-"['commercial', 'electrical', 'services']"
-"['alarm', 'installation', 'services']"
-"['electric', 'line', 'construction']"
-"['cable', 'installation', 'services']"
-"['elevator', 'installation', 'services']"
-"['low-rise', 'foundation', 'construction']"
-"['high-rise', 'foundation', 'construction']"
-"['precast', 'concrete', 'installation']"
-"['tilt-up', 'concrete', 'services']"
-"['masonry', 'construction', 'services']"
-"['drywall', 'services']"
-"['tile', 'installation', 'services']"
-"['carpentry', 'services']"
-"['millwork', 'services']"
-"['general', 'handyman', 'services']"
-"['insulation', 'services']"
-"['painting', 'services']"
-"['spray', 'painting', 'services']"
-"['flooring', 'installation', 'services']"
-"['interior', 'design', 'services']"
-"['home', 'staging', 'services']"
-"['sheet', 'metal', 'services']"
-"['welding', 'services']"
-"['structural', 'steel', 'erection']"
-"['non-structural', 'steel', 'fabrication']"
-"['windows', 'and', 'doors', 'installation']"
-"['well', 'drilling', 'services']"
-"['directional', 'drilling', 'services']"
-"['infrastructure', 'excavation']"
-"['new', 'ground', 'excavation']"
-"['residential', 'roofing', 'services']"
-"['roofing', 'services', 'with', 'heat', 'application']"
-"['waterproofing', 'services']"
-"['septic', 'system', 'services']"
-"['building', 'cleaning', 'services']"
-"['fire', 'safety', 'equipment', 'services']"
-"['testing', 'and', 'inspection', 'services']"
-"['single', 'family', 'residential', 'construction']"
-"['single', 'family', 'renovation', 'services']"
-"['multi-family', 'construction', 'services']"
-"['apartment', 'renovation', 'services']"
-"['restoration', 'services']"
-"['mobile', 'home', 'construction', 'services']"
-"['commercial', 'construction', 'services']"
-"['commercial', 'renovation', 'services']"
-"['swimming', 'pool', 'installation', 'services']"
-"['swimming', 'pool', 'maintenance', 'services']"
-"['vacant', 'building', 'management']"
-"['vacant', 'land', 'services']"
-"['meat', 'processing', 'services']"
-"['seafood', 'processing', 'services']"
-"['dairy', 'production', 'services']"
-"['frozen', 'food', 'processing']"
-"['ice', 'production', 'services']"
-"['canning', 'services']"
-"['animal', 'feed', 'manufacturing']"
-"['pet', 'food', 'manufacturing']"
-"['grain', 'processing', 'services']"
-"['coffee', 'processing', 'services']"
-"['seed', 'processing', 'services']"
-"['bakery', 'production', 'services']"
-"['confectionery', 'manufacturing']"
-"['distilling', 'services']"
-"['brewery', 'operations']"
-"['non-alcoholic', 'beverage', 'manufacturing']"
-"['oil', 'and', 'fat', 'manufacturing']"
-"['rendering', 'services']"
-"['textile', 'manufacturing', 'services']"
-"['carpet', 'manufacturing', 'services']"
-"['apparel', 'manufacturing']"
-"['accessory', 'manufacturing']"
-"[""children's"", 'clothing', 'manufacturing']"
-"['window', 'treatment', 'manufacturing']"
-"['canvas', 'manufacturing']"
-"['rope', 'production', 'services']"
-"['tent', 'manufacturing', 'services']"
-"['wood', 'product', 'manufacturing']"
-"['window', 'and', 'door', 'manufacturing']"
-"['cabinetry', 'manufacturing']"
-"['trim', 'manufacturing']"
-"['pallet', 'manufacturing']"
-"['furniture', 'manufacturing']"
-"['bedding', 'manufacturing']"
-"['paper', 'production', 'services']"
-"['stationery', 'manufacturing']"
-"['publishing', 'services']"
-"['printing', 'services']"
-"['gas', 'manufacturing', 'services']"
-"['ink', 'production', 'services']"
-"['plastic', 'manufacturing']"
-"['cosmetic', 'manufacturing']"
-"['soap', 'production', 'services']"
-"['chemical', 'manufacturing']"
-"['asphalt', 'production', 'services']"
-"['rubber', 'manufacturing']"
-"['plastic', 'signage', 'production']"
-"['media', 'production', 'services']"
-"['software', 'manufacturing']"
-"['food', 'processing', 'services']"
-"['pharmaceutical', 'manufacturing']"
-"['laboratory', 'services']"
-"['waste', 'management', 'services']"
-"['recycling', 'services']"
-"['environmental', 'consulting']"
-"['property', 'management', 'services']"
-"['real', 'estate', 'services']"
-"['insurance', 'services']"
-"['financial', 'services']"
-"['legal', 'services']"
-"['consulting', 'services']"
-"['marketing', 'services']"
-"['human', 'resources', 'services']"
-"['management', 'consulting']"
-"['business', 'development', 'services']"
-"['project', 'management', 'services']"
-"['technology', 'consulting']"
-"['software', 'development', 'services']"
-"['data', 'analysis', 'services']"
-"['market', 'research', 'services']"
-"['strategic', 'planning', 'services']"
-"['training', 'services']"
-"['public', 'relations', 'services']"
-"['event', 'planning', 'services']"
-"['catering', 'services']"
-"['travel', 'services']"
-"['digital', 'marketing', 'services']"
-"['e-commerce', 'services']"
-"['online', 'marketing', 'services']"
-"['content', 'creation', 'services']"
-"['website', 'development', 'services']"
-"['seo', 'services']"
-"['social', 'media', 'services']"
-"['branding', 'services']"
-"['graphic', 'design', 'services']"
-"['advertising', 'services']"
-"['corporate', 'training', 'services']"
-"['health', 'and', 'safety', 'consulting']"
-"['food', 'safety', 'services']"
-"['quality', 'assurance', 'services']"
-"['compliance', 'services']"
-"['environmental', 'health', 'services']"
-"['risk', 'assessment', 'services']"
-"['crisis', 'management', 'services']"
-"['community', 'engagement', 'services']"
-"['stakeholder', 'services']"
-"['corporate', 'responsibility', 'services']"
-"['fundraising', 'services']"
-"['volunteer', 'services']"
-"['non-profit', 'management']"
-"['arts', 'services']"
-"['sports', 'management', 'services']"
-"['fitness', 'coaching']"
-"['health', 'promotion', 'services']"
-"['physical', 'therapy', 'services']"
-"['occupational', 'health', 'services']"
+agricultural equipment services
+soil nutrient application services
+pesticide application services
+ornamental plant nurseries
+landscaping services
+gardening services
+tree services - pruning / removal
+veterinary services
+veterinary clinics
+pet boarding services
+animal day care services
+pet grooming services
+animal training services
+veterinary health centers
+animal trainers
+livestock dealer services
+timber harvesting operations
+fishing and hunting services
+well maintenance services
+field welding services
+sand and gravel mining
+residential driveway construction
+commercial driveway construction
+fencing construction services
+sidewalk construction services
+commercial irrigation systems
+residential drainage systems
+residential snow removal
+commercial snow removal
+general snow removal services
+land leveling services
+residential drain cleaning
+commercial drain cleaning
+street cleaning operations
+conveyor system installation
+low-rise signage installation
+high-rise signage installation
+tank installation services
+residential communication equipment installation
+commercial communication equipment installation
+low-rise glass installation
+high-rise glass installation
+industrial machinery installation
+agricultural machinery installation
+grain handling machinery installation
+dock and pier construction
+road and highway construction
+road maintenance services
+pipeline construction services
+new ground pipeline installation
+excavation services
+residential plumbing services
+commercial plumbing services
+industrial plumbing services
+boiler installation services
+boiler repair services
+steam services
+gas installation services
+medical gas installation services
+fire protection system services
+hvac installation and service
+hvac inspections
+air duct cleaning services
+water treatment services
+residential electrical services
+commercial electrical services
+alarm installation services
+electric line construction
+cable installation services
+elevator installation services
+low-rise foundation construction
+high-rise foundation construction
+precast concrete installation
+tilt-up concrete services
+masonry construction services
+drywall services
+tile installation services
+carpentry services
+millwork services
+general handyman services
+insulation services
+painting services
+spray painting services
+flooring installation services
+interior design services
+home staging services
+sheet metal services
+welding services
+structural steel erection
+non-structural steel fabrication
+windows and doors installation
+well drilling services
+directional drilling services
+infrastructure excavation
+new ground excavation
+residential roofing services
+roofing services with heat application
+waterproofing services
+septic system services
+building cleaning services
+fire safety equipment services
+testing and inspection services
+single family residential construction
+single family renovation services
+multi-family construction services
+apartment renovation services
+restoration services
+mobile home construction services
+commercial construction services
+commercial renovation services
+swimming pool installation services
+swimming pool maintenance services
+vacant building management
+vacant land services
+meat processing services
+seafood processing services
+dairy production services
+frozen food processing
+ice production services
+canning services
+animal feed manufacturing
+pet food manufacturing
+grain processing services
+coffee processing services
+seed processing services
+bakery production services
+confectionery manufacturing
+distilling services
+brewery operations
+non-alcoholic beverage manufacturing
+oil and fat manufacturing
+rendering services
+textile manufacturing services
+carpet manufacturing services
+apparel manufacturing
+accessory manufacturing
+children's clothing manufacturing
+window treatment manufacturing
+canvas manufacturing
+rope production services
+tent manufacturing services
+wood product manufacturing
+window and door manufacturing
+cabinetry manufacturing
+trim manufacturing
+pallet manufacturing
+furniture manufacturing
+bedding manufacturing
+paper production services
+stationery manufacturing
+publishing services
+printing services
+gas manufacturing services
+ink production services
+plastic manufacturing
+cosmetic manufacturing
+soap production services
+chemical manufacturing
+asphalt production services
+rubber manufacturing
+plastic signage production
+media production services
+software manufacturing
+food processing services
+pharmaceutical manufacturing
+laboratory services
+waste management services
+recycling services
+environmental consulting
+property management services
+real estate services
+insurance services
+financial services
+legal services
+consulting services
+marketing services
+human resources services
+management consulting
+business development services
+project management services
+technology consulting
+software development services
+data analysis services
+market research services
+strategic planning services
+training services
+public relations services
+event planning services
+catering services
+travel services
+digital marketing services
+e-commerce services
+online marketing services
+content creation services
+website development services
+seo services
+social media services
+branding services
+graphic design services
+advertising services
+corporate training services
+health and safety consulting
+food safety services
+quality assurance services
+compliance services
+environmental health services
+risk assessment services
+crisis management services
+community engagement services
+stakeholder services
+corporate responsibility services
+fundraising services
+volunteer services
+non-profit management
+arts services
+sports management services
+fitness coaching
+health promotion services
+physical therapy services
+occupational health services
